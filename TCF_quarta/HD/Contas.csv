@@ -1,0 +1,5 @@
+Banco,Agência,Número da Conta,Nome do Titular,Data,Descrição,Valor,Saldo
+Banco Central de Pernambuco,0022,123456-7,QPHU QPU (Jian Jin),10/03/2020,Transferência para Banco Nacional do Brasil, conta 012345-6 (RHYSPU RHY),R$ 400.000,00,R$ 450.000,00
+Banco Federal de Investimentos,0330,234567-8,SHYHU SHIP (Laran Labi),15/03/2020,Transferência para Banco Nacional do Brasil, conta 012345-6 (RHYSPU RHY),R$ 550.000,00,R$ 400.000,00
+Banco Nacional do Brasil,0010,012345-6,RHYSPU RHY (Karlin Kar),10/03/2020,Recebimento de transferência de Banco Central de Pernambuco, conta 123456-7 (QPHU QPU),R$ 400.000,00,R$ 1.600.000,00
+Banco Nacional do Brasil,0010,012345-6,RHYSPU RHY (Karlin Kar),15/03/2020,Recebimento de transferência de Banco Federal de Investimentos, conta 234567-8 (SHYHU SHIP),R$ 550.000,00,R$ 2.150.000,00
