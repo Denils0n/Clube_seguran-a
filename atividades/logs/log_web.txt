@@ -1,0 +1,49 @@
+Data e Hora            | IP do Cliente       | URL Visitada                          | Status
+--------------------------------------------------------------------------------------------------
+2024-01-15 09:15:23    | 192.168.10.1        | http://www.alphaweb.com               | 200 OK
+2024-02-22 11:22:45    | 192.168.10.2        | https://www.betastream.net            | 200 OK
+2024-03-03 14:37:59    | 192.168.10.3        | http://www.charliehub.org             | 404 Not Found
+2024-04-17 16:45:12    | 192.168.10.4        | https://www.deltanetwork.com          | 200 OK
+2024-05-25 19:12:01    | 192.168.10.5        | http://www.epsilonconnect.net         | 200 OK
+2024-06-30 21:29:33    | 192.168.10.6        | https://www.foxtrotmedia.org          | 200 OK
+2024-07-19 08:47:20    | 192.168.10.7        | http://www.golfweb.net                | 404 Not Found
+2024-08-15 10:35:11    | 192.168.10.8        | https://www.hotelhub.org              | 200 OK
+2024-09-05 13:22:09    | 192.168.10.9        | http://www.indianetwork.com           | 200 OK
+2024-10-10 15:30:45    | 192.168.10.10       | https://www.julietstream.net          | 200 OK
+2024-11-22 17:48:32    | 192.168.10.11       | http://www.kiloweb.org                | 404 Not Found
+2024-12-03 19:57:21    | 192.168.10.12       | https://www.limanetwork.com           | 200 OK
+2024-12-15 21:03:14    | 192.168.10.13       | http://www.mikenetwork.net            | 200 OK
+2025-01-10 23:11:50    | 192.168.10.14       | https://www.novembermedia.org         | 200 OK
+2025-02-18 05:20:37    | 192.168.10.15       | http://www.oscarhub.com               | 404 Not Found
+2025-03-22 06:37:25    | 192.168.10.16       | https://www.papanetwork.net           | 200 OK
+2025-04-07 08:45:32    | 192.168.10.17       | http://www.queuemedianet.org          | 200 OK
+2025-05-12 09:52:28    | 192.168.10.18       | https://www.romeoconnect.com          | 200 OK
+2025-06-18 11:08:47    | 192.168.10.19       | http://www.sierraweb.net              | 404 Not Found
+2025-07-22 13:17:29    | 192.168.10.20       | https://www.tangomedia.org            | 200 OK
+2025-08-25 15:25:11    | 192.168.10.21       | http://www.uniformconnect.com         | 200 OK
+2025-09-30 16:32:14    | 192.168.10.22       | https://www.victorstream.net          | 200 OK
+2025-10-05 18:47:20    | 192.168.10.23       | http://www.whiskeyhub.org             | 404 Not Found
+2025-11-10 19:52:16    | 192.168.10.24       | https://www.xraynetwork.com           | 200 OK
+2025-12-15 21:07:05    | 192.168.10.25       | http://www.yankeenetwork.net          | 200 OK
+2025-01-20 22:13:45    | 192.168.10.26       | https://www.zuluhub.org               | 200 OK
+2025-02-25 23:28:09    | 192.168.10.27       | http://www.alphamedianet.com          | 404 Not Found
+2025-03-30 01:35:41    | 192.168.10.28       | https://www.betahub.net               | 200 OK
+2025-04-22 02:42:13    | 192.168.10.29       | http://www.charlieconnect.org         | 200 OK
+2025-05-15 04:58:24    | 192.168.10.30       | https://www.deltastream.com           | 200 OK
+2025-06-20 06:13:29    | 192.168.10.31       | http://www.epsilonmedia.net           | 404 Not Found
+2025-07-25 07:27:35    | 192.168.10.32       | https://www.foxtrotnetwork.org        | 200 OK
+2025-08-30 08:42:21    | 192.168.10.33       | http://www.golfhub.com                | 200 OK
+2025-09-05 10:58:32    | 192.168.10.34       | https://www.hotelstream.net           | 200 OK
+2025-10-10 12:13:45    | 192.168.10.35       | http://www.indiamedia.org             | 404 Not Found
+2025-11-15 13:28:59    | 192.168.10.36       | https://www.julietnetwork.com         | 200 OK
+2025-12-20 14:45:16    | 192.168.10.37       | http://www.kiloconnect.net            | 200 OK
+2026-01-25 15:57:22    | 192.168.10.38       | https://www.limahub.org               | 200 OK
+2026-02-22 17:12:35    | 192.168.10.39       | http://www.mikenetwork.com            | 404 Not Found
+2026-03-28 18:28:01    | 192.168.10.40       | https://www.novemberstream.net        | 200 OK
+2026-04-30 19:42:14    | 192.168.10.41       | http://www.oscarhub.org               | 200 OK
+2026-05-05 20:57:20    | 192.168.10.42       | https://www.drogasdaboa.com           | 200 OK
+2026-06-10 22:13:32    | 192.168.10.43       | http://www.queuestream.net            | 404 Not Found
+2026-07-15 23:27:45    | 192.168.10.44       | https://www.romeohub.org              | 200 OK
+2026-08-20 01:45:12    | 192.168.10.45       | http://www.sierraweb.com              | 200 OK
+2026-09-25 02:58:29    | 192.168.10.46       | https://www.tangonetwork.net          | 200 OK
+2026-10-30 04:13:32    | 192.168.10.47       | http://www.uniformconnect.org         | 404 Not Found
